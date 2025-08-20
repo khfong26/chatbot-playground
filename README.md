@@ -15,6 +15,3 @@ This repo contains several small-scale experiments and implementations related t
   A custom tokenizer that maps characters or strings to unique IDs, similar to the `tokenizer.encode()` process used in LLMs.
 
 ---
-
-### 📂 Structure
-
